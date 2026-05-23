@@ -46,9 +46,9 @@ This ensures that students can stay productive, manage their workload effectivel
 ## Installation & Setup 
 1. Clone the repository:
 ```
-git clone https://github.com/keshavpotewar/Study-planner-.git
+https://github.com/MallikarjunBaradenal/AI-BASED-STUDY-PLANNNER-.git
 
-cd smart-study-planner
+
 ```
 2. Install dependencies:
 ```
@@ -59,6 +59,5 @@ npm install
 npm run dev
 
 ```
-4. Open your browser and navigate to `http://localhost:5173` to view the application.
 
  
